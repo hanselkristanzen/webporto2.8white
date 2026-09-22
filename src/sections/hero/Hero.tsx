@@ -180,7 +180,7 @@ export function Hero({ ready }: HeroProps) {
 
         <div className={styles.supportRow}>
           <p className={styles.role} ref={roleRef}>
-            Computer Science Student &amp; Designer
+            Computer Science Student
           </p>
           <p className={styles.statement} ref={statementRef}>
             Exploring how technology can solve real-world problems.
